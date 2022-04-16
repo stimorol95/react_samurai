@@ -1,0 +1,9 @@
+.content {
+  grid-area: content;
+  background-color: blanchedalmond
+}
+
+.item img {
+  width: 40px;
+  border-radius: 20px;
+}
