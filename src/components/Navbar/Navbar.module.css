@@ -3,6 +3,10 @@
   background-color: aquamarine;
 }
 
-.item {
-    color: blue;
+.item a {
+    color: black;
+}
+
+.item a:active{
+  color: gold;
 }
